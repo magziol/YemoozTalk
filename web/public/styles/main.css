@@ -15,7 +15,7 @@
  */
 
 html, body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 main, #messages-card {
   height: 100%;
@@ -67,7 +67,7 @@ main, #messages-card {
 .message-container {
   display: block;
   margin-top: 10px;
-  border-top: 1px solid #f3f3f3;
+  border-top: 1px solid #a1a0a0;
   padding-top: 10px;
   opacity: 0;
   transition: opacity 1s ease-in-out;
@@ -124,7 +124,7 @@ main, #messages-card {
   min-height: 0;
 }
 .mdl-card {
-  background: linear-gradient(white, #f9f9f9);
+  background: linear-gradient(rgb(154, 252, 227), #7cf8dd);
   justify-content: space-between;
 }
 #user-container {
@@ -177,7 +177,7 @@ main, #messages-card {
   }
   #user-container {
     top: 72px;
-    background-color: rgb(3,155,229);
+    background-color: rgb(81, 179, 146);
     height: 38px;
     padding-top: 3px;
     padding-right: 2px;
@@ -190,10 +190,10 @@ main, #messages-card {
   }
 }
 .mdl-textfield__label:after {
-  background-color: #0288D1;
+  background-color: #396838;
 }
 .mdl-textfield--floating-label.is-focused .mdl-textfield__label {
-  color: #0288D1;
+  color: #396838;
 }
 .mdl-button .material-icons {
   top: -1px;
