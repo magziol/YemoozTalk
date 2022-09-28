@@ -1,6 +1,6 @@
 {
-  "name": "Friendly Chat",
-  "short_name": "Friendly Chat",
+  "name": "Yemooz Talk",
+  "short_name": "Yemooz Talk",
   "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait"

@@ -16,6 +16,8 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
-    "firebase": "^9.0.0"
+    "firebase": "^9.0.0",
+    "firebase-admin": "^11.0.1",
+    "firebase-functions": "^3.24.0"
   }
 }
